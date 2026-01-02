@@ -14,6 +14,7 @@ https://archive.ics.uci.edu/ml/machine-learning-databases/forest-fires/forestfir
 - Jupyter Notebook
 
 ## Project Structure
+```
 Project Structure
 Forest-Fires-Data-Analysis/
 │
@@ -38,7 +39,7 @@ Forest-Fires-Data-Analysis/
 │
 ├── README.md
 └── requirements.txt
-
+```
 ## Analysis Objectives
 
 ## The project performs the following analyses:
@@ -72,4 +73,5 @@ Forest-Fires-Data-Analysis/
 2-Larger burned areas tend to be associated with specific weather conditions.
 
 3-Wind and rainfall show observable relationships with fire severity.
+
 
