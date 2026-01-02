@@ -74,4 +74,10 @@ Forest-Fires-Data-Analysis/
 
 3-Wind and rainfall show observable relationships with fire severity.
 
+## Run Project
+1-Download ipynb file from "Data" Folder.
+2-Open Jupyter Notebook either online or on your Desktop.
+3-Load file in to Notebook.
+4- Run Code.
+
 
