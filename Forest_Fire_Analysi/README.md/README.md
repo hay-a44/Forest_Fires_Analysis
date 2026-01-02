@@ -76,8 +76,12 @@ Forest-Fires-Data-Analysis/
 
 ## Run Project
 1-Download ipynb file from "Data" Folder.
+
 2-Open Jupyter Notebook either online or on your Desktop.
+
 3-Load file in to Notebook.
+
 4- Run Code.
+
 
 
