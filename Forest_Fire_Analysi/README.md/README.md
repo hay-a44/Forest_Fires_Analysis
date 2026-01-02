@@ -44,21 +44,32 @@ Forest-Fires-Data-Analysis/
 ## The project performs the following analyses:
 
 1-Load the dataset directly from the URL and inspect its structure.
+
 2-Count the total number of observations and identify significant fires (area burned > 0).
+
 3-Display the month, day, and burned area for all significant fire observations.
+
 4-Identify the top five fires based on total area burned.
+
 5-Extract corresponding month, temperature, relative humidity (RH), wind, rain, and area for the top fires.
+
 6-Reorder the dataset by month (January–December).
+
 7-Add a boolean column indicating whether a fire burned any area.
+
 8-Compute monthly averages of wind, temperature, RH, and burned area.
 
 ## Visualize:
 
 1-Monthly fire counts using a bar plot
+
 2-Relationships between burned area and wind and rainfall using scatter plots
 
 ## Key Insights
 
 1-Fire occurrence varies significantly by month.
+
 2-Larger burned areas tend to be associated with specific weather conditions.
+
 3-Wind and rainfall show observable relationships with fire severity.
+
